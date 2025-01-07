@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**rafaeldocmacedo/rafaeldocmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on remote sensing, data science and environmental mathematical modeling.
 - 🌱 I’m currently learning PostgreSQL, R, Python and JavaScript.
